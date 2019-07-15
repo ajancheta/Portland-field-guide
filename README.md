@@ -1,5 +1,5 @@
 # Portland Field Guide
-## By: **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Schulte, AJ Ancheta_**
+## By: **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Schulte, Ashley Jessica Ancheta_**
 
 #### _JavaScript, Week 5 Independent Project, *06.27.2019*_
 
@@ -9,6 +9,14 @@
 
 ## Description
 _This is a web application that allows users to search local native and invasive plants in Portland, OR. This app was designed to be used on a phone._
+
+## Preview 
+![Preview Image 1](src/assets/img/preview-one.png)
+![Preview Image 2](src/assets/img/preview-two.png)
+![Preview Image 3](src/assets/img/preview-three.png)
+![Preview Image 4](src/assets/img/preview-four.png)
+![Preview Image 5](src/assets/img/preview-five.png)
+
 
 ## Technologies Used
 
@@ -30,20 +38,21 @@ _This is a web application that allows users to search local native and invasive
 
 `npm install` This will allow the viewer of this project to have access to the CLI (command line interface) for webpack.
 
-`ng serve` in the project directory in Terminal. Go to http://localhost:4200/ in the browser of your choice. Note: The app will automatically reload if you change any of the source files. This is a continuous monitoring so to stop it just type the key combination `Ctrl + C` within the terminal.
+`ng serve` in the project directory in Terminal. 
+
+Preferrably in Google Chrome, enter the url `http://localhost:4200/`
+Note: The app will automatically reload if you change any of the source files. This is a continuous monitoring so to stop it just type the key combination `Ctrl + C` within the terminal.
 
 ## Completed and in progress features
 
 - [x] Navigation bar
 - [x] Footer navigation bar
 - [x] Database is saved on Firebase
-- [ ] Program is deployed
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- [x] Custom designed icons using `www.Figma.com`
+- [x] Application is deployed
 
 ## Resources
 _Portland Plant List, June 2016: `https://www.portlandoregon.gov/citycode/article/322280`._
-_Custom icons by Ashley using `www.figma.com`._
 
 ## Known Bugs
 There are no known bugs. 
@@ -51,9 +60,8 @@ There are no known bugs.
 ## Support and contact details
 Megan Schulte: megan.schulte.pdx@gmail.com
 Brooke Kullberg: brookekullberg@gmail.com
-Ashley Ancheta: ashleyjancheta@gmail.com
+Ashley Jessica Ancheta: ashleyjancheta@gmail.com
 Stuart McKay: ashleyjancheta@gmail.com
 Reese Lee: ashleyjancheta@gmail.com
- 
 
-Copyright (c) 2019 **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Sculte, AJ Ancheta_**
+Copyright (c) 2019 **_Stuart Mckay, Reese Lee, Brooke Kullberg, Megan Sculte, Ashley Jessica Ancheta_**
