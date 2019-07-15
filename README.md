@@ -11,12 +11,11 @@
 _This is a web application that allows users to search local native and invasive plants in Portland, OR. This app was designed to be used on a phone._
 
 ## Preview 
-![Preview Image 1](src/assets/img/preview-one.png)
-![Preview Image 2](src/assets/img/preview-two.png)
-![Preview Image 3](src/assets/img/preview-three.png)
-![Preview Image 4](src/assets/img/preview-four.png)
-![Preview Image 5](src/assets/img/preview-five.png)
-
+<img src="src/assets/img/preview-one.png" width="350" height="470">
+<img src="src/assets/img/preview-two.png" width="350" height="470">
+<img src="src/assets/img/preview-three.png" width="350" height="470">
+<img src="src/assets/img/preview-four.png" width="350" height="470">
+<img src="src/assets/img/preview-five.png" width="350" height="470">
 
 ## Technologies Used
 
